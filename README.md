@@ -74,4 +74,4 @@ This project demonstrates how Power BI can transform raw customer data into mean
 
 Dashboard Preview
 
-"Dashboard" (Dashboard.png)
+"Dashboard" (customer_dashboard.png)
