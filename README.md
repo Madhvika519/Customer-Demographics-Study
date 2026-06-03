@@ -72,6 +72,6 @@ Conclusion
 This project demonstrates how Power BI can transform raw customer data into meaningful visual insights for business decision-making and customer analysis.
 
 
-Dashboard Preview
+## Dashboard Preview
 
-"Dashboard" (customer_dashboard.png)
+! [Dashboard] (customer_dashboard.png)
